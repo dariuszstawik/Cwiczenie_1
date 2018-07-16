@@ -289,8 +289,7 @@ nav {
     margin: 20px 0px;
 }
 
-.portfolioitem img:hover {
-    /*visibility: hidden;*/
+.portfolioitem:hover .portfolioitem-img {
     display: none;
 }
 
