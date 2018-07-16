@@ -227,7 +227,7 @@ nav {
 }
 
 .sectionhead {
-    background-image: url("pattern1.png");
+    background-image: url("assets/pattern1.png");
     background-repeat: repeat;
     display: -webkit-box;
     display: -ms-flexbox;
